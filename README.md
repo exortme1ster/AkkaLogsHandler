@@ -6,7 +6,7 @@ Name: Nikita Mashchenko
 
 ### Development Environment
 + Windows 10
-+ GO version 1.19.2
++ Scala version 2.13.6
 + IntelliJ IDEA Ultimate
 
 ## Entire Setup of the Project:
@@ -17,6 +17,7 @@ Name: Nikita Mashchenko
 - Enter your desired configs in application.conf.
 - Enter `sbt clean compile test` and see if all the test executions pass.
 - Setup the desired Time and Delta time values inside the application.conf.
+- Do sbt run to see the result
 
 
 ## Overview
@@ -36,8 +37,11 @@ When logs are present:
 ## All repos:
 
 https://github.com/exortme1ster/AkkaLogsHandler
+
 https://github.com/exortme1ster/GRPCClientServer
+
 https://github.com/exortme1ster/LogFileGenerator
+
 https://github.com/exortme1ster/pythonLambda
 
 ## Video:
