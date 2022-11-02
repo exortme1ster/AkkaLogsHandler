@@ -32,3 +32,13 @@ When logs are not present:
 <br/>
 When logs are present:
 ![img_1.png](img_1.png)
+
+## All repos:
+
+https://github.com/exortme1ster/AkkaLogsHandler
+https://github.com/exortme1ster/GRPCClientServer
+https://github.com/exortme1ster/LogFileGenerator
+https://github.com/exortme1ster/pythonLambda
+
+## Video:
+
